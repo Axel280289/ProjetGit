@@ -2,4 +2,27 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+.logo {
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+}
+
+.navbar {
+  background: rgba(169, 0, 0, 0.6039215686);
+}
+
+.container-fluid {
+  background: rgb(165, 141, 141);
+  padding: 10px 0;
+}
+
+.offcanvas-header {
+  background: rgba(169, 0, 0, 0.6039215686);
+}
+
+.offcanvas-body {
+  background: rgb(165, 141, 141);
 }/*# sourceMappingURL=index.css.map */

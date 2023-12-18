@@ -1,11 +1,14 @@
 $font1: Philosopher, sans-serif;
 $font2: Dosis, sans-serif;
 
-$white: #f5f5f5;
+$red: #a90000;
+$redBg: #a900009a;
 $black: #3e3b3b;
-$marron: #3f2305;
-$color1: #fdf9ec;
-$color2: #dfd7bf;
+$white: #fdf9ec;
+
+
+
+
 
 @mixin marginCenter {
   margin: 0 auto;
@@ -16,3 +19,4 @@ $color2: #dfd7bf;
   padding: 0;
   box-sizing: border-box;
 }
+

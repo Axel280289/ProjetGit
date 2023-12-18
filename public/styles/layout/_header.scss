@@ -1,0 +1,20 @@
+.logo {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+
+.navbar {
+    background: $redBg;
+}
+
+.container-fluid {
+    background: rgb(165, 141, 141); 
+    padding:10px 0;
+}
+.offcanvas-header{
+    background: $redBg;
+}
+.offcanvas-body{
+    background: rgb(165, 141, 141); 
+}
