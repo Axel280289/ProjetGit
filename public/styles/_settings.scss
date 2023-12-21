@@ -7,11 +7,17 @@ $black: #3e3b3b;
 $white: #fdf9ec;
 
 
-
-
+@mixin minmax-w($min: no, $max: no) {
+  @if $min != no {min-width: $min;}
+  @if $max != no {max-width: $max;}
+}
 
 @mixin marginCenter {
   margin: 0 auto;
+}
+
+body{
+  background: red;
 }
 
 * {
